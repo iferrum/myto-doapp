@@ -34,3 +34,5 @@ function remove(item){
 removeAll.onclick = function(){
 	taskList.innerHTML = '';
 }
+
+//started git
